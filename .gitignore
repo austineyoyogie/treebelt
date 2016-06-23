@@ -1,0 +1,9 @@
+
+.Python
+.idea/
+bin/
+include/
+lib/
+pip-selfcheck.json
+requirements.txt
+github_command.txt
